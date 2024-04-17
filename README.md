@@ -77,3 +77,5 @@ for mobile-friendly interactive maps.
 * https://leafletjs.com/examples/quick-start/. Official Leaflet website.
 * https://react-leaflet.js.org/docs/start-installation/. Official react-leaflet website.
 * https://gist.github.com/PurpleBooth/109311bb0361f32d87a2. A very complete template for README.md files.
+* https://medium.com/@alexanie_/link-component-in-react-router-6872291bf78e. Link Component in React Router.
+* https://www.freecodecamp.org/news/react-router-tutorial/. React Router Tutorial – How to Render, Redirect, Switch, Link, and More, With Code Examples
