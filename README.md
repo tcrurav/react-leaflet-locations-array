@@ -1,6 +1,8 @@
-# Simplest example with react-leaflet and some markers
+# Simplest example with react-leaflet, some markers and position you click on
 
 This project is just a project example to learn how to use Leaflet with React.
+
+When you run this project It shows an array of locations, and also you can click in the map and gives you the latitude and longitude of the position you clicked on.
 
 ## Getting Started
 
